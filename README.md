@@ -106,7 +106,7 @@ Bilgilerinizi silmek için sil butonuna tıklayıp bilgilerinizi silebilirsiniz.
 ## Video ve URL
 
 Web sitemi anlatan YouTube videosuna aşağıdaki linkten erişebilirsiniz:
-[YouTube Videosu](#)
+https://www.youtube.com/watch?v=MjBcj_PkYoE
 
 Web sitemin URL adresine ulaşmak için aşağıdaki linke tıklayabilirsiniz:
 [http://dugunsalonurandevu.infinityfreeapp.com](http://dugunsalonurandevu.infinityfreeapp.com)
