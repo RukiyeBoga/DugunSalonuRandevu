@@ -100,6 +100,9 @@ Bilgilerinizi silmek için sil butonuna tıklayıp bilgilerinizi silebilirsiniz.
 
 ![Bilgi Silme](https://github.com/RukiyeBoga/DugunSalonuRandevu/assets/168567237/aacaaf2a-0eb0-41fe-9c48-f2f1e9070dee)
 
+### Tüm Veritabanı Tabloları
+![image](https://github.com/RukiyeBoga/DugunSalonuRandevu/assets/168567237/69a5e623-a260-40b2-9f6e-10f624feb146)
+
 ## Video ve URL
 
 Web sitemi anlatan YouTube videosuna aşağıdaki linkten erişebilirsiniz:
